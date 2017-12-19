@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jabong.android",
+    "sha256_cert_fingerprints":
+    ["8C:80:27:C4:F8:72:7F:2A:50:E9:09:96:13:32:CE:25:D5:F0:CA:50:9E:37:10:AF:2E:ED:63:62:EC:C9:55:BC"]
+  }
+}]
